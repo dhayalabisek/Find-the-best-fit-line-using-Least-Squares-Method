@@ -64,7 +64,9 @@ plt.show()
 
 
 ## Output:
-![best fit line](sam.png)
+Slope = 0.6
+Intercept = 2.2
+Equation: Y = 0.6 X + 2.2
 <img width="567" height="455" alt="Ex1 out" src="https://github.com/user-attachments/assets/db3b2b73-27df-422c-a4c4-571e2af43c34" />
 
 ## Result:
